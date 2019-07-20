@@ -8,9 +8,6 @@ You need dependencies below.
 - tensorflow 1.4.1+
 - opencv3
 
-
-### Install
-
 Clone the repo and install 3rd-party libraries.
 
 ```bash
